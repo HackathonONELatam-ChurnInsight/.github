@@ -1,2 +1,2 @@
 # .github
-Special Github repo for organization
+Special GitHub repo for organization
