@@ -47,56 +47,39 @@ Equipo de **8 especialistas** distribuidos en Latinoamérica, formado automátic
 
 ### 🔙 Backend Team (Java + Spring Boot)
 
-
 **Andrea Cecilia Lopez**  
- andreacecilopez88@gmail.com
-https://www.linkedin.com/in/andreacecilialopez
-
-[](https://github.com/usuario) [](https://linkedin.com/in/usuario)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreacecilopez88@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreacecilialopez)
 
 **Anghelo Flores**  
-cfloresu@uni.pe
-https://www.linkedin.com/in/anghelo-flores-4725451b1/
-
-[](https://github.com/evanghel1on) [](https://www.linkedin.com/in/anghelo-flores-4725451b1/)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cfloresu@uni.pe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anghelo-flores-4725451b1/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evanghel1on)
 
 **Ashley Zifrikc Villanueva Tuny**  
-Zuran210@gmail.com
-https://pe.linkedin.com/in/ashley-zifrikc-dev
-
-[](https://github.com/usuario) [](https://linkedin.com/in/usuario)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Zuran210@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pe.linkedin.com/in/ashley-zifrikc-dev)
 
 **Enrique Castillo**  
-enriquecastiyosoy@gmail.com
-https://www.linkedin.com/in/joseenriquecastillo/
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecastiyosoy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseenriquecastillo/)
 
 **Luis Fernando Jaramillo**  
- jaramillosterlf@gmail.com
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaramillosterlf@gmail.com)
 
 ### 🧠 Data Science Team (Python + ML)
 
 **Claudia Delgado**  
- cid2024sec@gmail.com
-https://www.linkedin.com/in/claudiax-delgado
-
-[](https://github.com/usuario) [](https://linkedin.com/in/usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cid2024sec@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiax-delgado)
 
 **Felipe Octavio Rebolledo Robert**  
-felipe.rebolledo.robert@gmail.com
-https://www.linkedin.com/in/felipe-rebolledo-robert/
-
-[](https://github.com/usuario) [](https://linkedin.com/in/usuario)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.rebolledo.robert@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rebolledo-robert/)
 
 **Nicolas Ruiz**  
-nruizb14@gmail.com
-www.linkedin.com/in/nicolas-ruiz-953323302
-
-[](https://github.com/usuario) [](https://linkedin.com/in/usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nruizb14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-ruiz-953323302)
 
 ---
 
@@ -108,7 +91,7 @@ www.linkedin.com/in/nicolas-ruiz-953323302
 
 ### ⭐ **ChurnInsight - Grupo 8 Tech Advanced - Equipo 69**
 
-**Hackathon ONE No Country 2025** | [github.com/HackathonONELatam-ChurnInsight](https://github.com/HackathonONELatam-ChurnInsight)
+**Hackathon ONE No Country 2025** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HackathonONELatam-ChurnInsight)
 
 *Última actualización: Enero 2026*
 
