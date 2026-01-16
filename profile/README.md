@@ -12,7 +12,7 @@
 
 ## 📖 Presentación de la Organización
 
-**Nombre del equipo** es un equipo tecnológico nacido en el **Hackathon ONE No Country 2025 (Grupo 8 - Tech Advanced)**, formada por estudiantes apasionados de Data Science y desarrollo Backend. Nuestra especialidad es crear soluciones predictivas que permiten a empresas identificar clientes en riesgo de cancelación y ejecutar estrategias de retención proactivas.
+**HoldOn Data Labs** es un equipo tecnológico nacido en el **Hackathon ONE No Country 2025 (Grupo 8 - Tech Advanced)**, formada por estudiantes apasionados de Data Science y desarrollo Backend. Nuestra especialidad es crear soluciones predictivas que permiten a empresas identificar clientes en riesgo de cancelación y ejecutar estrategias de retención proactivas.
 
 ### 🎯 Nuestra Misión
 
