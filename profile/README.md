@@ -96,7 +96,7 @@ Equipo de **8 especialistas** distribuidos en Latinoamérica, formado automátic
 
 **No Country** - Plataforma organizadora | **Programa ONE** - Iniciativa principal | **Alura Latam** - Formación técnica
 
-### ⭐ **ChurnInsight - Grupo 8 Tech Advanced - Equipo 69**
+### ⭐ **ChurnInsight - Grupo 8 Tech Advanced - Equipo 69: HoldOn Data Labs**
 
 **Hackathon ONE No Country 2025** | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HackathonONELatam-ChurnInsight)
 
