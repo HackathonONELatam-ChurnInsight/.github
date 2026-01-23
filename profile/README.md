@@ -1,6 +1,8 @@
+
+# ChurnInsight — Predicción de Cancelación de Clientes
 <div align="center">
 
-# 🚀 Equipo 69 - HoldOn Data Labs
+<img src="./logo_final.png" alt="HoldOn Data Labs Logo" width="420" />
 
 ### Soluciones Inteligentes de Retención de Clientes
 
@@ -8,11 +10,10 @@
 
 </div>
 
----
 
 ## 📖 Presentación de la Organización
 
-**HoldOn Data Labs** es un equipo tecnológico nacido en el **Hackathon ONE No Country 2025 (Grupo 8 - Tech Advanced)**, formada por estudiantes apasionados de Data Science y desarrollo Backend. Nuestra especialidad es crear soluciones predictivas que permiten a empresas identificar clientes en riesgo de cancelación y ejecutar estrategias de retención proactivas.
+**HoldOn Data Labs** es un equipo tecnológico nacido en el **Hackathon ONE No Country 2025 (Equipo 69- Grupo 8 - Tech Advanced)**, formada por estudiantes apasionados de Data Science y desarrollo Backend. Nuestra especialidad es crear soluciones predictivas que permiten a empresas identificar clientes en riesgo de cancelación y ejecutar estrategias de retención proactivas.
 
 ### 🎯 Nuestra Misión
 
