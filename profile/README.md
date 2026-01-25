@@ -1,5 +1,5 @@
 
-# ChurnInsight — Predicción de Cancelación de Clientes
+# H12-25-L-Equipo 69 - HOLDON DATA LABS
 <div align="center">
 
 <img src="./logo_final.png" alt="HoldOn Data Labs Logo" width="420" />
